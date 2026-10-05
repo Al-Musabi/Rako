@@ -3,6 +3,9 @@
 using namespace std;
 
 int main() {
-	cout << "Hello, World!" << endl;
-	return 0;
+
+    cout << "Calculator Application\n";
+    cout << "10 + 5 = " << Add(10, 5) << '\n';
+
+    return 0;
 }
