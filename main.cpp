@@ -2,6 +2,13 @@
 
 using namespace std;
 
+
+sturct stUser {
+    string name;
+    int age;
+};
+
+
 int main() {
 
     cout << "Calculator Application\n";
